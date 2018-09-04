@@ -5,7 +5,7 @@ Repo for project
               FOR
          GEO MANDALAR Co.,Ltd
     UNDER THE GUIDANCE OF
-         *Director
+         Director
          U RAVI CHHABRA
          Supervisor
          Daw Khaing Myat Nwe
@@ -30,17 +30,17 @@ CHAPTER 2 METHODOLOGY
     Hardware Requirement
 2.2 Project Schedule                 5
 CHAPTER 3 PROJECT DEVELOPMENT
--3.1 Design
--3.1.1 Class Diagram                  6
--3.1.2 Use Case Diagram               7
--3.1.3 Sequence Diagram               8
--3.1.4 App Design
--3.2 Database Implementation          24
+- 3.1 Design
+- 3.1.1 Class Diagram                  6
+- 3.1.2 Use Case Diagram               7
+- 3.1.3 Sequence Diagram               8
+- 3.1.4 App Design
+- 3.2 Database Implementation          24
 CHAPTER 4 EVALUATION AND CONCLUSION
--4.1 Conclusion                       26
--4.2 Advantages of the project        26
--4.3 Disadvantages of the project     26
--4.4 Limitations                      27
+- 4.1 Conclusion                       26
+- 4.2 Advantages of the project        26
+- 4.3 Disadvantages of the project     26
+- 4.4 Limitations                      27
   ##                                  Abstract
 *This application will provide for users to view about famous people's biography in Myanmar such as business leaders,models,actors,actresses,directors and vocalists.By using this application,you can know these people biography in details.This application intends to give famous people's information for users.Then it can also be viewed to know this information easily and quickly.In our project,we use materializecss,material design lite,Python programming language.We also use Flask-SQL Alchemy, DB Browser for SQL lite for database.
 

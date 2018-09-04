@@ -1,2 +1,2 @@
-# whoiswhoinmyanmar
+# whoinmyanmar
 Repo for project

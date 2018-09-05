@@ -42,7 +42,8 @@ Repo for project
            4.3 Disadvantages of the project     
            4.4 Limitations                      
                                      Abstract
-    This application will provide for users to view about famous people's biography in Myanmar such as business leaders,models,actors,actresses,directors and vocalists.By using this application,you can know these people biography in details.
+    This application will provide for users to view about famous people's biography in Myanmar such as business leaders,models,actors,actresses,directors and vocalists.By using this
+    application,you can know these people biography in details.
     This application intends to give famous people's information for users.Then it can also be viewed to know this information easily and quickly.
     In our project,we use materializecss,material design lite,Python programming language.We also use Flask-SQL Alchemy, DB Browser for SQL lite for database.
 

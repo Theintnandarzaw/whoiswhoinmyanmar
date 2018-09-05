@@ -80,20 +80,27 @@ Repo for project
       Table(3.6) People Table
      CHAPTER 1 INTRODUCTION
         1.1 Introduction
-     This application can be used with mobile phones,tablets or PCs.The project provides about an application that gives famous people's information in Myanmar.This application is simple and easy to use.
-     The project"Who is Who in Myanmar" intends to know about the biographies of famous actors,actresses,business leaders,vocalists,directors and models.Our project is helpful to save your time by viewing famous people's biography easily and quickly.
-     1.2 Background of the app
-      1.2.1 HTML,CSS,JavaScript
-      Hypertext Markup Language is the standard markup language for creating web pages and web applications.With Cascading Style Sheets and Javascript, it forms a triad of cornerstone technologies for the World Wide Web.So we use html,javascript,css for this project.
-      To make this application,we use materializecss, material design lite.
+        This application can be used with mobile phones,tablets or PCs.The project provides about an application that gives famous people's information in Myanmar.This application is simple
+	and
+     easy to use.The project"Who is Who in Myanmar" intends to know about the biographies of famous actors,actresses,business leaders,vocalists,directors and models.Our project is helpful to 
+     save your time by viewing famous people's biography easily and quickly.
+      1.2 Background of the app
+         1.2.1 HTML,CSS,JavaScript
+         Hypertext Markup Language is the standard markup language for creating web pages and web applications.With Cascading Style Sheets and Javascript, it forms a triad of cornerstone
+      technologies for the World Wide Web.So we use html,javascript,css for this project.To make this application,we use materializecss, material design lite.
      1.2.2 What is Python?
-     Python is a scripting language like PHP, Perl,Ruby and so much more.It can be used for web programming(Zope,Google App Engine,and much more).But it also can be used for desktop applications and can also be translated into binary code like java.
-     It can be used to build server-side web applications. While a webframework is not required to build web applications,it's rare that developers would not use existing open source libraries to speed up their progress in getting their application working.
+         Python is a scripting language like PHP, Perl,Ruby and so much more.It can be used for web programming(Zope,Google App Engine,and much more).But it also can be used for desktop 
+     applications and can also be translated into binary code like java.
+     It can be used to build server-side web applications. While a webframework is not required to build web applications,it's rare that developers would not use existing open source
+     libraries to speed up their progress in getting their application working.
      Python is not used in web browser.In this project,we use Python programming language due to this above good facts.
      1.2.3 What is Flask?
-    Flask is a lightweight web framework written in Python.Flask provides you with tools,libraries and technologies that allow you to build a web application.In the case of Flask,its dependencies are:Werkzeug a WSGI utility Library,Jinja2 which is its template engine.
-    Flask is commonly used with MongoDB which allows it more control over database and history. Applications that use the Flask framework include Pinterest, Linkedln and the community web page for Flask itself. 
-    Flask is now one of the most widely used Python web frameworks for start-ups, and is becoming commonly accepted as the perfect tool for quick and simple solutions in most businesses.In this project,we use Flask to build a web framework in Python.
+        Flask is a lightweight web framework written in Python.Flask provides you with tools,libraries and technologies that allow you to build a web application.In the case of Flask,its
+    dependencies are:Werkzeug a WSGI utility Library,Jinja2 which is its template engine.
+    Flask is commonly used with MongoDB which allows it more control over database and history. Applications that use the Flask framework include Pinterest, Linkedln and the community 
+    web page for Flask itself. 
+    Flask is now one of the most widely used Python web frameworks for start-ups, and is becoming commonly accepted as the perfect tool for quick and simple solutions in most businesses.
+    In this project,we use Flask to build a web framework in Python.
     1.2.4 What is SQL Alchemy?
       SQL Alchemy is a library that facilitates the communitation between Python Programs and databases.
       Most of the time, the library is used as an Object Relational Mapper(ORM)tool that translates that Python classes to tables on relational database and automatically converts function calls to SQL statements.
